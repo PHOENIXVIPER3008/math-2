@@ -1,0 +1,60 @@
+body {
+	background-image: url("https://github.com/coder-27/Maths_Quiz-2/blob/main/THE_MATH_QUIZ.png?raw=true");
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-weight: bolder;
+}
+
+.login_div1,
+.login_div2 {
+	background: orangered;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+h1,
+h4,
+span {
+    color: white;
+    font-weight: bolder;
+}
+
+#player1_name,
+#player2_name {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+h2,
+h3 {
+    color: red;
+    font-weight: bolder;
+    width: fit-content;
+}
+
+h3,
+h2,
+label {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#word {
+    width: 60%;
+}
+
+#word_display {
+    letter-spacing: 5px;
+}
+
+#output {
+    background: orangered;
+    border-radius: 10px;
+    border-top: 10px solid skyblue;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
